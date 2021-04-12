@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+
+li > a{
+  color: black;
+  font-size: 17px;
+  margin-left: -40px;
+  text-decoration: none;
+}
+
+header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url('../img/lemon-pie.png');
+    background-size: cover;
+    color: white;
+    font-family: Inter,sans-serif;
+    font-size: 25px;
+    padding-top:270px;
+}
+
+main{
+    font-family: Inter,sans-serif;
+}
+
+h3{
+  font-style: italic;
+}
+
+.lista{
+  font-size: 22px;
+}
+
+.instrucciones{
+  margin-left: 20px;
+}
+
+ol{
+  font-size: 22px;
+}
+
+span>a{
+  color:orangered;
+}
+
+footer{
+  background-color: rgb(164, 115, 243);
+  font-family: Inter,sans-serif;
+  font-size: 18px;
+  padding: 3px;
+  text-align: center;
+}
